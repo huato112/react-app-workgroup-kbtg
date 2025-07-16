@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { useUsers } from '@/features/user/useUsers'
 import { User, CreateUserRequest } from '@/features/user/types'
 import { Button } from '@/components/ui/Button'

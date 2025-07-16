@@ -1,4 +1,3 @@
-import React from 'react'
 import { Outlet } from 'react-router-dom'
 import { useTheme } from '@/components/ThemeProvider'
 import { Button } from '@/components/ui/Button'
