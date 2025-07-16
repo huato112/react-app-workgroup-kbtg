@@ -7,7 +7,7 @@ export function HomePage() {
   const features = [
     {
       icon: Users,
-      title: 'User Management',
+      title: 'User Management2',
       description: 'Complete CRUD operations for user management with real-time updates.',
       href: '/users',
     },
