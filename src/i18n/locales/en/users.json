@@ -1,0 +1,24 @@
+{
+  "title": "Users",
+  "description": "Manage your users",
+  "addUser": "Add User",
+  "createUser": "Create New User",
+  "editUser": "Edit User",
+  "deleteUser": "Delete User",
+  "userCreated": "User created successfully!",
+  "userUpdated": "User updated successfully!",
+  "userDeleted": "User deleted successfully!",
+  "failedToCreate": "Failed to create user",
+  "failedToUpdate": "Failed to update user",
+  "failedToDelete": "Failed to delete user",
+  "failedToLoad": "Failed to load users",
+  "deleteConfirmation": "Are you sure you want to delete {{name}}? This action cannot be undone.",
+  "form": {
+    "name": "Name",
+    "nameRequired": "Name is required",
+    "email": "Email",
+    "emailRequired": "Email is required",
+    "avatar": "Avatar URL",
+    "avatarPlaceholder": "https://example.com/avatar.jpg (optional)"
+  }
+}
